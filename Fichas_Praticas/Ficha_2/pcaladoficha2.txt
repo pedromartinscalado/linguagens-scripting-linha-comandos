@@ -1,0 +1,82 @@
+   0 vfsync
+   1 bash
+   2 vfsync
+   3 clear
+   4 ls
+   5 cd pcalado
+   6 bash
+   7 vfsync
+   8 clear
+   9 cd pcalado
+  10 ls
+  11 clear
+  12 history
+  13 export 
+  14 history > ficha1.txt
+  15 cat history
+  16 cat ficha1.txt
+  17 vfsync
+  18 ls
+  19 cd pcalado
+  20 clear
+  21 pwd
+  22 delete pcalado
+  23 help
+  24 ls
+  25 vfsync
+  26 rm pcalado
+  27 vfsync
+  28 ls
+  29 rm pcalado -r
+  30 rm -r pcalado
+  31 vfsync
+  32 ls
+  33 pwd
+  34 ls
+  35 mkdir pcalado
+  36 ls
+  37 history
+  38 vfsync
+  39 ls
+  40 pwd
+  41 ls
+  42 history
+  43 history > ficha1.txt
+  44 export_file ficha1.txt
+  45 clear
+  46 cd pcalado
+  47 mkdir -v dir1
+  48 mkdir -vp dir2/dir3/dir4
+  49 ls
+  50 ls -R
+  51 cd dir2
+  52 cd dir3
+  53 cd -
+  54 cd
+  55 history
+  56 history > ficha2.txt
+  57 export_file ficha2.txt
+  58 cd ..
+  59 dir ..
+  60 cd pcalado
+  61 ls
+  62 cd pcalado
+  63 dir ..
+  64 cd dir3
+  65 ls -R
+  66 cd dir2
+  67 cd dir3
+  68 cd ..
+  69 vfsync
+  70 ls
+  71 pcalado
+  72 cd pcalado
+  73 ls
+  74 cd dir2
+  75 ls
+  76 cd dir3
+  77 ls
+  78 cd -
+  79 cd
+  80 history
+  81 history > ficha2.txt

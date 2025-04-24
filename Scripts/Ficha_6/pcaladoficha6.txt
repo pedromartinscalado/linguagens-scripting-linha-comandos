@@ -1,0 +1,25 @@
+   0 vfsync
+   1 history
+   2 ls
+   3 echo Hello World
+   4 echo echo Hello World > hello_world
+   5 cd pcalado
+   6 nano hello_world.sh
+   7 cat hello_world.sh
+   8 hello_world.sh
+   9 ls
+  10 ls -a
+  11 ls -l
+  12 chmod +x hello_world.sh 
+  13 ls -l
+  14 hello_world.sh
+  15 ./hello_world.sh
+  16 nano hello_world.sh
+  17 ./hello_world.sh
+  18 nano hello_world.sh
+  19 clear
+  20 nano hello_world.sh
+  21 cd pcalado
+  22 nano hello_world
+  23 ./hello_world.sh
+  24 history > pcaladoficha6.txt

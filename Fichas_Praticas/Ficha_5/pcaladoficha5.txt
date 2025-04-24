@@ -1,0 +1,34 @@
+   0 vfsync
+   1 history
+   2 grep "linux" file1.txt
+   3 grep -r 'Hello' pcalado
+   4 grep -r 'hello' pcalado
+   5 grep -ri 'Hello' pcalado
+   6 grep -i 'LINUX' ficha1.txt
+   7 grep -i 'pcalado' ficha2.txt 
+   8 grep -n 'pcalado' ficha2.txt
+   9 grep -in 'pcalado' ficha2.txt
+  10 grep -iv 'pcalado' ficha2.txt
+  11 wc -L ficha2.txt
+  12 wc ficha2.txt
+  13 sort file1.txt
+  14 cp file1.txt ordena.txt
+  15 sort ordena.txt
+  16 sort ordena.txt > ordenado.txt
+  17 ps                                                           
+  18 sleep 60 &                                                   
+  19 ps                                                           
+  20 kill 132                                                   
+  21 ps                                                           
+  22 sleep 30 &                                                   
+  23 ps                                                           
+  24 killall sleep                                                
+  25 ps                                                           
+  26 killall -u webminal                                          
+  27 top                                                          
+  28 pstree                                                       
+  29 pstree -p                                                    
+  30 sleep 90 &                                                   
+  31 time ls -l 
+  32 history > pcaladoficha5.txt
+  33 export_file pcaladoficha5.txt

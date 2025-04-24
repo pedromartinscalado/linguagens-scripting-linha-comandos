@@ -1,0 +1,33 @@
+   0 vfsync
+   1 history
+   2 pwd
+   3 du
+   4 du -xh ~
+   5 du --max-depth 3 ~
+   6 du -d 3
+   7 du -d 3 ~
+   8 cp -v hello.txt dir2
+   9 cp -v hello.txt dir2/file2.txt
+  10 cp  -vr dir2/*.txt dir2/dir3
+  11 cp -vr dir2/dir3  .
+  12 md5sum hello.txt
+  13 md5sum dir2/hello.txt
+  14 mv hello.txt dir2/dir3/dir4/hi.txt
+  15 ls
+  16 ls -R
+  17 mkdir dir5
+  18 mv dir2/*.txt dir5
+  19 mv dir5 dir50
+  20 ls -R
+  21 ln dir2/dir3/dir4/hi.txt hello
+  22 stat hello
+  23 stat dir2/dir3/dir4/hi.txt
+  24 ln -s dir2/dir3/dir4/hi.txt softlink
+  25 stat softlink
+  26 rm -i file2.txt
+  27 rm -ri dir50/*
+  28 rm -rf junk/*
+  29 rmdir dir50
+  30 history
+  31 history > ficha4.txt
+  32 export_file ficha4.txt

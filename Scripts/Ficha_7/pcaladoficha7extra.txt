@@ -1,0 +1,104 @@
+   0 vfsync
+   1 history
+   2 ls
+   3 echo Hello World
+   4 echo echo Hello World > hello_world
+   5 cd pcalado
+   6 nano hello_world.sh
+   7 cat hello_world.sh
+   8 hello_world.sh
+   9 ls
+  10 ls -a
+  11 ls -l
+  12 chmod +x hello_world.sh 
+  13 ls -l
+  14 hello_world.sh
+  15 ./hello_world.sh
+  16 nano hello_world.sh
+  17 ./hello_world.sh
+  18 nano hello_world.sh
+  19 clear
+  20 nano hello_world.sh
+  21 cd pcalado
+  22 nano hello_world
+  23 ./hello_world.sh
+  24 history > pcaladoficha6.txt
+  25 export_file pcaladoficha6.txt
+  26 nano variaveis1.sh
+  27 echo $var1
+  28 ./vars
+  29 ./var1
+  30 ./variaveis1.sh
+  31 source ./variaveis1.sh
+  32 . ./variaveis1.sh
+  33 nano vars1.sh
+  34 source ./vars1.sh
+  35 nano vars1.sh
+  36 source ./vars1.sh
+  37 nano vars2.sh
+  38 ./vars2.sh
+  39 source ./vars2.sh
+  40 nano vars2.sh
+  41 source ./vars2.sh
+  42 nano vars2.sh
+  43 source ./vars2.sh
+  44 nano vars2.sh
+  45 source ./vars2.sh
+  46 nano vars2.sh
+  47 source ./vars2.sh
+  48 nano ./vars2.sh
+  49 source ./vars2.sh
+  50 nano vars2.sh
+  51 source ./vars2.sh
+  52 nano vars2.sh
+  53 source ./vars2.sh
+  54 vfsync
+  55 cd pcalado
+  56 nano vars2.sh
+  57 source ./vars2.sh
+  58 nano vars2.sh
+  59 source ./vars2.sh
+  60 nano vars2.sh
+  61 source ./vars2.sh
+  62 nano vars2.sh
+  63 source ./vars2.sh
+  64 nano vars3.sh
+  65 nano vars2.sh
+  66 source ./vars2.sh
+  67 nano vars2.sh
+  68 source ./vars2.sh
+  69 vfsync
+  70 cd pcalado
+  71 nano vars2.sh
+  72 source ./vars2.sh
+  73 nano vars2.sh
+  74 nano desafio1.sh
+  75 chmod +x desafio1
+  76 chmod +x desafio1.sh
+  77 ./desafio1.sh
+  78 nano desafio1.sh
+  79 ./desafio1.sh
+  80 nano desafio1.sh
+  81 ./desafio1.sh
+  82 history > pcaladoficha7scripts.txt
+  83 export_file pcaladoficha7scripts.txt
+  84 ./vars2.sh
+  85 source ./vars2.sh
+  86 nano city.sh
+  87 chmod +x city.sh
+  88 ./city.sh
+  89 bash city.sh
+  90 ksh city.sh
+  91 which bash
+  92 nano city.sh
+  93 ksh cit.sh
+  94 nano city.sh
+  95 ksh city.sh
+  96 ./city.sh
+  97 nano var.sh
+  98 chmod +x var.sh
+  99 ./var.sh
+ 100 source var.sh
+ 101 . var.sh
+ 102 nano var.sh
+ 103 history > pcaladoficha7extra.txt
